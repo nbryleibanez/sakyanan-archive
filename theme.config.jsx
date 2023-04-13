@@ -5,8 +5,13 @@ export default {
     },
     search: {
       placeholder: "Search Archive",
+      loading: "Filling up the tank!",
+      error: "No results found.",
     },
     docsRepositoryBase: 'https://github.com/nbryleibanez/sakyanan-archive/blob/main',
+    sidebar: {
+      toggleButton: true,
+    },
     footer: {
       text: "Sakyanan Archive"
     }
