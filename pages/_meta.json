@@ -1,5 +1,11 @@
 {
     "index": "Sakyanan Archive",
+    "---": {
+        "type": "separator"
+    },
     "mazda": "Mazda",
-    "about":  "About"
+    "about":  {
+        "title": "About",
+        "type": "page"
+    }
 }
