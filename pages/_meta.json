@@ -3,7 +3,9 @@
     "---": {
         "type": "separator"
     },
+    "ferrari": "Ferrari",
     "mazda": "Mazda",
+    "toyota": "Toyota",
     "about":  {
         "title": "About",
         "type": "page"

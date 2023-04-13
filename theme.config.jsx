@@ -6,6 +6,7 @@ export default {
     search: {
       placeholder: "Search Archive",
     },
+    docsRepositoryBase: 'https://github.com/nbryleibanez/sakyanan-archive/blob/main',
     footer: {
       text: "Sakyanan Archive"
     }
