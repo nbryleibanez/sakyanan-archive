@@ -5,8 +5,10 @@
     },
     "ferrari": "Ferrari",
     "ford": "Ford",
+    "honda": "Honda",
     "lamborghini": "Lamborghini",
     "mazda": "Mazda",
+    "mitsubishi": "Mitsubishi",
     "toyota": "Toyota",
     "about":  {
         "title": "About",
